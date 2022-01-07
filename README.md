@@ -64,7 +64,7 @@ I had the opportunity to use AWS on a large scale, I really enjoyed it and now I
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Madfish5415.Madfish5415">
-  <a href="https://github.com/Matttx/?tab=follow" target="_blank"><img src="https://img.shields.io/github/followers/Madfish5415?label=Follow&style=social"></a>
+  <a href="https://github.com/Madfish5415/?tab=follow" target="_blank"><img src="https://img.shields.io/github/followers/Madfish5415?label=Follow&style=social"></a>
 </div>
 
 <div align="center">
