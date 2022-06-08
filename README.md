@@ -1,11 +1,22 @@
-<div align="center">
-  <h2>Hi there !! <img src="https://github.com/Madfish5415/Madfish5415/blob/main/wave-emoji.gif?raw=true" width="30px"></h2>
+
+<div>
+<div align="left">
+  
+  <a href="https://app.daily.dev/Madfish5415"><img src="https://api.daily.dev/devcards/dfe974ea58a04ce5ab1f11253a3b13da.png?r=5e6" width="15%" align="right" alt="Madfish5415's Dev Card"/></a>
+</div>
+  
+  <div align="center">
+  <h2>Hi there !! <img src="https://github.com/Madfish5415/Madfish5415/blob/main/wave-emoji.gif?raw=true" width="3%"></h2>
 </div>
 
-Welcome to my profile, my name is Lucas and I'm a 4 years EPITECH student 🧑🏻‍💻\
-I really love the DevOps mindset ⚙️ and cloud architecture ☁️, that's why I did all my internships in those sectors 🙂.\
-I discovered this mindset by chance during an exchange at a convention and I have been hooked on his ideas ever since.\
-I had the opportunity to use AWS on a large scale, I really enjoyed it and now I decided to move towards cloud architecture ☁️.
+<p>
+    Welcome to my profile, my name is Lucas and I'm a 4 years EPITECH student 🧑🏻‍💻<br>
+    I really love the DevOps mindset ⚙️ and cloud architecture ☁️, that's why I did all my internships in those sectors 🙂.<br>
+    I discovered this mindset by chance during an exchange at a convention and I have been hooked on his ideas ever since.<br>
+    I had the opportunity to use AWS on a large scale, I really enjoyed it and now I decided to move towards cloud architecture ☁️.<br>
+</p>
+</div>
+
 
 ---
 ### Where to contact me
