@@ -2,7 +2,7 @@
 <div>
 <div align="left">
   
-  <a href="https://app.daily.dev/Madfish5415"><img src="https://api.daily.dev/devcards/dfe974ea58a04ce5ab1f11253a3b13da.png?r=5e6" width="15%" align="right" alt="Madfish5415's Dev Card"/></a>
+  <a href="https://app.daily.dev/Madfish5415"><img src="https://api.daily.dev/devcards/dfe974ea58a04ce5ab1f11253a3b13da.png?r=5e6" width="17%" align="right" alt="Madfish5415's Dev Card"/></a>
 </div>
   
   <div align="center">
